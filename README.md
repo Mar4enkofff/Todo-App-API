@@ -1,9 +1,18 @@
-# React TypeScript Starter Pack
+# Todo App API
 
-To use this template click `Use this template`
+Implemented a ToDo app using React, TypeScript, hooks, and API integration. Created a user-friendly interface with intuitive task management features.
 
-### Available Scripts
+**Live Preview**
+You can view a live demo of the website [HERE](https://github.com/Mar4enkofff/Todo-App-API/) 
 
-`Deploy` - available to deploy your application to gh-pages
+**Built with**
+- React;
+- JavaScript;
+- Preprocessors SCSS;
+- Mobile-first workflow;
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+**Installation and Usage**
+Clone the repository
+Install dependencies: npm install
+Run the development server: npm start
+Open http://localhost:3000 in a web browser.
